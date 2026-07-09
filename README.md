@@ -29,7 +29,7 @@ Currently working on building Java and DSA projects. New repositories will be ad
 # 📬 Connect With Me
 
 - 📧 Email: jayakrishnan.aiml@gmail.com
-- 💼 LinkedIn: https://www.linkedin.com/in/your-linkedin
+- 💼 LinkedIn: https://www.linkedin.com/in/jayakrishnan-aiml/
 - 💻 GitHub: https://github.com/jayakrishnan-v-ai
 
 📍 Tiruvallur, Tamil Nadu, India
