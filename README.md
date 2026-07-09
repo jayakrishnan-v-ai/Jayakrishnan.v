@@ -28,7 +28,7 @@ Currently working on building Java and DSA projects. New repositories will be ad
 
 # 📬 Connect With Me
 
-- 📧 Email: your-email@gmail.com
+- 📧 Email: jayakrishnan.aiml@gmail.com
 - 💼 LinkedIn: https://www.linkedin.com/in/your-linkedin
 - 💻 GitHub: https://github.com/your-username
 
