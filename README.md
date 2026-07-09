@@ -1,2 +1,35 @@
-# Jayakrishnan.v
-Welcome to my GitHub profile! I'm Jayakrishnan V, a B.Tech Artificial Intelligence &amp; Machine Learning student and an aspiring Java Developer. Currently learning Java, Data Structures &amp; Algorithms, SQL, and Git while building projects and improving my software development skills.
+# Hi, I'm Jayakrishnan V 👋
+
+🎓 B.Tech Artificial Intelligence & Machine Learning Student
+
+💻 Aspiring Java Developer passionate about software development and continuously improving my programming skills.
+
+🚀 Currently learning Java, Data Structures & Algorithms, SQL, Git & GitHub.
+
+---
+
+# 🛠️ Technical Skills
+
+- Java (Learning)
+- Data Structures & Algorithms (Learning)
+- SQL (Learning)
+- Git & GitHub
+- Problem Solving (Learning)
+
+---
+
+# 🚀 Projects
+
+### 🔹 Projects Coming Soon
+
+Currently working on building Java and DSA projects. New repositories will be added as I progress.
+
+---
+
+# 📬 Connect With Me
+
+- 📧 Email: your-email@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/your-linkedin
+- 💻 GitHub: https://github.com/your-username
+
+📍 Tiruvallur, Tamil Nadu, India
